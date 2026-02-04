@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   // Remplace 'ton-depot' par le nom de ton projet sur GitHub
-  base: '/Sitevitrinemultipagetransport/',
+  base: '/Enafretmaquette3/',
 
   plugins: [
     react(),
